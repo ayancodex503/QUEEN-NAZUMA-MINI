@@ -38,7 +38,6 @@ export default {
 • 🧩 *Total Features:* ${totalfitur}
 • ⏱️ *Runtime:* ${runtime}
 • 🏰 *Domain:* ${domain}
-• 👤 *Creator:* ${creator}
 
 > 💎 *Information retrieved successfully.*`;
 
